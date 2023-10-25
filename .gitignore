@@ -1,2 +1,22 @@
 node_modules
 dist
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Generated files
+*.log
+*.pid
+*.swp
+*.out
+
+# Credentials
+.env
+secrets.js
+
+# Logs
+logs
+*.log
